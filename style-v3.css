@@ -34,7 +34,7 @@
 .items-tabs input[type='radio']:checked + label + .tab-list {
     display: block;
 }
-
+/* Random comment */
 .items-tabs input[type='radio']:checked + label {
     background: #0ec2e6;
 }
